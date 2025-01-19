@@ -7,6 +7,7 @@ Requirements
 
 This project uses Python and the following libraries:
 
+pandas
 numpy
 matplotlib
 scipy
